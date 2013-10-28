@@ -1,4 +1,4 @@
 DiaryManager
 ============
 
-3nd edtion
+3rd edtion
