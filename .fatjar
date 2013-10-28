@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Sat Oct 26 19:39:52 CST 2013
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=C\:\\Users\\Administrator\\Desktop\\DiaryManager.jar
+manifest.mergeall=true
+manifest.mainclass=Application
+manifest.file=<createnew>
+jarname.isextern=true
+onejar.expand=
+excludes=
+includes=
